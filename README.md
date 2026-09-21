@@ -82,3 +82,7 @@ This board supplies **5 V power** through USB-A. It does not implement BC 1.2, A
 
 For first power-up, use a current-limited bench power supply. First verify that the no-load output is close to 5 V. Then use an electronic load in gradual steps to measure voltage regulation, ripple, input current, and the temperatures of the diode, inductor, and IC, as well as short-circuit behavior. Before connecting a USB device, check that there is no short circuit between VBUS and GND.
 
+
+<img width="962" height="541" alt="gitpcb2" src="https://github.com/user-attachments/assets/cbf1722e-bdb7-49e3-82b1-00c6f024f6c3" />
+<img width="1547" height="612" alt="gitpcb1" src="https://github.com/user-attachments/assets/4e497a38-737c-4e45-8a4c-36cc01a40b3c" />
+<img width="422" height="607" alt="buckcon1" src="https://github.com/user-attachments/assets/0f71673f-76cf-4223-986d-cc5305563b6c" />
